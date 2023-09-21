@@ -1,0 +1,11 @@
+c=complex(2,5)
+print(c)
+print(c.real)
+print(c.imag)
+b=complex(4,9)
+a=complex(4,1)
+x=a+b/c
+print(x)
+print(5//4)
+print(80//6)
+print(80%6)
